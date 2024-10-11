@@ -476,10 +476,10 @@ def door_open(data, url_gate, channel):
 def connection():
     connection_str= (
         "DRIVER={ODBC Driver 17 for SQL Server};"
-        "Server=192.168.2.102,1435;"  # Server and port
-        "Database=PKM;"                # Database name
-        "UID=sa;"                      # User ID (SQL Server Authentication)
-        "PWD=$j53272162;"              # Password
+        "Server=;"  # Server and port
+        "Database=;"                # Database name
+        "UID=;"                      # User ID (SQL Server Authentication)
+        "PWD=;"              # Password
         "MultipleActiveResultSets=True;" 
         #"TrustServerCertificate=True;"
         "Trusted_Connection=no;" 
