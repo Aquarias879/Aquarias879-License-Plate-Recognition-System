@@ -1,0 +1,9 @@
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python>=4.1.1
+Pillow>=7.1.2
+onnxruntime-directml >=1.17.1
+ffmpeg-python>=0.2.0
+requests>=2.26.0
+pyodbc>==5.1.0
+customtkinter>==5.2.2
